@@ -11,9 +11,9 @@
 `docker build node:redis .`
 
 
-###Pour lancer redis
+###Il faut lancer redis sur un terminal
 `docker run redis`
 
-###Lancer le container avec docker compose
+###Lancer le container avec docker compose sur un autre terminal
 `docker-compose up --build`
 
